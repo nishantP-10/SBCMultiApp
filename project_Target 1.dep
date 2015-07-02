@@ -1,0 +1,7 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x4F4B47D4)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil\ARM\INC\Philips\LPC214X.H)(0x4E9C049C)
+F (.\context_switch.s)(0x4F43AF3D)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "context_switch.lst" --xref -o "context_switch.o" --depend "context_switch.d")
+F (.\setup.s)(0x4F4B48B0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "setup.lst" --xref -o "setup.o" --depend "setup.d")
+F (.\Startup.s)(0x4F4B498B)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\iosr.s)(0x4F4B4A04)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "iosr.lst" --xref -o "iosr.o" --depend "iosr.d")

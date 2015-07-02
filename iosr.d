@@ -1,0 +1,1 @@
+iosr.o: iosr.s

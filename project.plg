@@ -1,0 +1,1802 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\project\SBC\ARM codes\OS API wrking\OS_API_debug\project.uvproj
+Project File Date:  02/27/2012
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+Startup.s(262): error: A1169E: Missing close square bracket
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+Startup.s(266): error: A1516E: Bad symbol 'IO_SR', not defined or external
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+Startup.s(49): error: A1163E: Unknown opcode IO_SR , expecting opcode or Macro
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol IO_SR (referred from startup.o).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(6): error: A1137E: Unexpected characters at end of line
+iosr.s(8): error: A1186E: Code generated in data area
+iosr.s(9): error: A1186E: Code generated in data area
+iosr.s(10): error: A1186E: Code generated in data area
+iosr.s(11): error: A1186E: Code generated in data area
+iosr.s(12): error: A1186E: Code generated in data area
+iosr.s(13): warning: A1865W: '#' not seen before constant expression
+iosr.s(13): error: A1186E: Code generated in data area
+iosr.s(14): error: A1186E: Code generated in data area
+iosr.s(15): error: A1186E: Code generated in data area
+iosr.s(16): warning: A1865W: '#' not seen before constant expression
+iosr.s(16): error: A1186E: Code generated in data area
+iosr.s(17): error: A1186E: Code generated in data area
+iosr.s(18): error: A1186E: Code generated in data area
+iosr.s(19): warning: A1865W: '#' not seen before constant expression
+iosr.s(19): error: A1186E: Code generated in data area
+iosr.s(20): error: A1186E: Code generated in data area
+iosr.s(21): error: A1186E: Code generated in data area
+iosr.s(22): error: A1186E: Code generated in data area
+iosr.s(23): error: A1186E: Code generated in data area
+iosr.s(24): error: A1186E: Code generated in data area
+iosr.s(25): error: A1186E: Code generated in data area
+iosr.s(26): error: A1186E: Code generated in data area
+iosr.s(32): error: A1186E: Code generated in data area
+iosr.s(33): error: A1186E: Code generated in data area
+iosr.s(34): error: A1186E: Code generated in data area
+iosr.s(35): error: A1152E: Unexpected operator
+iosr.s(36): error: A1186E: Code generated in data area
+iosr.s(37): error: A1186E: Code generated in data area
+iosr.s(38): error: A1186E: Code generated in data area
+iosr.s(39): error: A1186E: Code generated in data area
+iosr.s(40): error: A1186E: Code generated in data area
+iosr.s(41): error: A1186E: Code generated in data area
+iosr.s(42): error: A1186E: Code generated in data area
+iosr.s(45): error: A1186E: Code generated in data area
+iosr.s(46): error: A1186E: Code generated in data area
+iosr.s(47): error: A1186E: Code generated in data area
+iosr.s(48): error: A1152E: Unexpected operator
+iosr.s(49): error: A1186E: Code generated in data area
+iosr.s(50): error: A1186E: Code generated in data area
+iosr.s(51): error: A1186E: Code generated in data area
+iosr.s(52): error: A1186E: Code generated in data area
+iosr.s(53): error: A1186E: Code generated in data area
+iosr.s(54): error: A1186E: Code generated in data area
+iosr.s(55): error: A1186E: Code generated in data area
+iosr.s(57): error: A1186E: Code generated in data area
+iosr.s(58): error: A1186E: Code generated in data area
+iosr.s(59): error: A1186E: Code generated in data area
+iosr.s(60): error: A1152E: Unexpected operator
+iosr.s(61): error: A1186E: Code generated in data area
+iosr.s(62): error: A1186E: Code generated in data area
+iosr.s(63): error: A1186E: Code generated in data area
+iosr.s(64): error: A1186E: Code generated in data area
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(6): error: A1137E: Unexpected characters at end of line
+iosr.s(8): error: A1186E: Code generated in data area
+iosr.s(9): error: A1186E: Code generated in data area
+iosr.s(10): error: A1186E: Code generated in data area
+iosr.s(11): error: A1186E: Code generated in data area
+iosr.s(12): error: A1186E: Code generated in data area
+iosr.s(13): warning: A1865W: '#' not seen before constant expression
+iosr.s(13): error: A1186E: Code generated in data area
+iosr.s(14): error: A1186E: Code generated in data area
+iosr.s(15): error: A1186E: Code generated in data area
+iosr.s(16): warning: A1865W: '#' not seen before constant expression
+iosr.s(16): error: A1186E: Code generated in data area
+iosr.s(17): error: A1186E: Code generated in data area
+iosr.s(18): error: A1186E: Code generated in data area
+iosr.s(19): warning: A1865W: '#' not seen before constant expression
+iosr.s(19): error: A1186E: Code generated in data area
+iosr.s(20): error: A1186E: Code generated in data area
+iosr.s(21): error: A1186E: Code generated in data area
+iosr.s(22): error: A1186E: Code generated in data area
+iosr.s(23): error: A1186E: Code generated in data area
+iosr.s(24): error: A1186E: Code generated in data area
+iosr.s(25): error: A1186E: Code generated in data area
+iosr.s(26): error: A1186E: Code generated in data area
+iosr.s(32): error: A1186E: Code generated in data area
+iosr.s(33): error: A1186E: Code generated in data area
+iosr.s(34): error: A1186E: Code generated in data area
+iosr.s(35): error: A1152E: Unexpected operator
+iosr.s(36): error: A1186E: Code generated in data area
+iosr.s(37): error: A1186E: Code generated in data area
+iosr.s(38): error: A1186E: Code generated in data area
+iosr.s(39): error: A1186E: Code generated in data area
+iosr.s(40): error: A1186E: Code generated in data area
+iosr.s(41): error: A1186E: Code generated in data area
+iosr.s(42): error: A1186E: Code generated in data area
+iosr.s(45): error: A1186E: Code generated in data area
+iosr.s(46): error: A1186E: Code generated in data area
+iosr.s(47): error: A1186E: Code generated in data area
+iosr.s(48): error: A1152E: Unexpected operator
+iosr.s(49): error: A1186E: Code generated in data area
+iosr.s(50): error: A1186E: Code generated in data area
+iosr.s(51): error: A1186E: Code generated in data area
+iosr.s(52): error: A1186E: Code generated in data area
+iosr.s(53): error: A1186E: Code generated in data area
+iosr.s(54): error: A1186E: Code generated in data area
+iosr.s(55): error: A1186E: Code generated in data area
+iosr.s(57): error: A1186E: Code generated in data area
+iosr.s(58): error: A1186E: Code generated in data area
+iosr.s(59): error: A1186E: Code generated in data area
+iosr.s(60): error: A1152E: Unexpected operator
+iosr.s(61): error: A1186E: Code generated in data area
+iosr.s(62): error: A1186E: Code generated in data area
+iosr.s(63): error: A1186E: Code generated in data area
+iosr.s(64): error: A1186E: Code generated in data area
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(13): warning: A1865W: '#' not seen before constant expression
+iosr.s(16): warning: A1865W: '#' not seen before constant expression
+iosr.s(19): warning: A1865W: '#' not seen before constant expression
+iosr.s(35): error: A1152E: Unexpected operator
+iosr.s(48): error: A1152E: Unexpected operator
+iosr.s(60): error: A1152E: Unexpected operator
+iosr.s(72): error: A1152E: Unexpected operator
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(13): warning: A1865W: '#' not seen before constant expression
+iosr.s(16): warning: A1865W: '#' not seen before constant expression
+iosr.s(48): error: A1152E: Unexpected operator
+iosr.s(60): error: A1152E: Unexpected operator
+iosr.s(72): error: A1152E: Unexpected operator
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(13): warning: A1865W: '#' not seen before constant expression
+iosr.s(16): warning: A1865W: '#' not seen before constant expression
+iosr.s(25): error: A1516E: Bad symbol 'Mode_USR', not defined or external
+iosr.s(41): error: A1516E: Bad symbol 'Mode_USR', not defined or external
+iosr.s(54): error: A1516E: Bad symbol 'Mode_USR', not defined or external
+iosr.s(66): error: A1516E: Bad symbol 'Mode_USR', not defined or external
+iosr.s(78): error: A1516E: Bad symbol 'Mode_USR', not defined or external
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+iosr.s(14): warning: A1865W: '#' not seen before constant expression
+iosr.s(17): warning: A1865W: '#' not seen before constant expression
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9684 RO-data=4112 RW-data=0 ZI-data=1256  
+"project.axf" - 0 Error(s), 62 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9684 RO-data=4112 RW-data=0 ZI-data=1256  
+"project.axf" - 0 Error(s), 60 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+setup.s(15): error: A1150E: Bad symbol, not defined or external
+assembling Startup.s...
+assembling iosr.s...
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9740 RO-data=4112 RW-data=0 ZI-data=1256  
+"project.axf" - 0 Error(s), 60 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1098): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9740 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 60 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9716 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 60 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9720 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 60 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6806W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch to untyped symbol in iosr.o(IO_SR), ABI requires external code symbols to be of type STT_FUNC.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9720 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 61 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+Startup.s(264): error: A1169E: Missing close square bracket
+assembling iosr.s...
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+Startup.s(264): error: A1169E: Missing close square bracket
+assembling iosr.s...
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6806W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch to untyped symbol in iosr.o(IO_SR), ABI requires external code symbols to be of type STT_FUNC.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9720 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 61 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(19): warning:  #1295-D: Deprecated declaration context_switch - give arg types
+main.c(20): warning:  #1295-D: Deprecated declaration push_working_reg - give arg types
+main.c(21): warning:  #1295-D: Deprecated declaration setup - give arg types
+main.c(22): warning:  #1295-D: Deprecated declaration set_sys_tick - give arg types
+main.c(38): warning:  #951-D: return type of function "main" must be "int"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(289): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(296): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(302): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(310): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(536): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(543): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(549): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(556): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(782): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(789): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(795): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(803): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1029): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1036): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1042): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(1050): warning:  #167-D: argument of type "unsigned long *" is incompatible with parameter of type "unsigned int *"
+main.c(63): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(1099): warning:  #1-D: last line of file ends without a newline
+assembling context_switch.s...
+context_switch.s(22): warning: A1865W: '#' not seen before constant expression
+context_switch.s(26): warning: A1865W: '#' not seen before constant expression
+context_switch.s(30): warning: A1865W: '#' not seen before constant expression
+context_switch.s(43): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(58): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(131): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(146): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(218): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(234): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(311): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+context_switch.s(328): warning: A1085W: Forced user-mode LDM/STM must not be followed by use of banked R8-R14
+assembling setup.s...
+assembling Startup.s...
+assembling iosr.s...
+linking...
+project.axf: Warning: L6437W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch relocation to untyped symol in object iosr.o, target state unknown.
+project.axf: Warning: L6806W: Relocation #REL:8 in startup.o(RESET) with respect to IO_SR. Branch to untyped symbol in iosr.o(IO_SR), ABI requires external code symbols to be of type STT_FUNC.
+project.axf: Warning: L6437W: Relocation #REL:0 in main.o(.text) with respect to push_working_reg. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:1 in main.o(.text) with respect to context_switch. Branch relocation to untyped symol in object context_switch.o, target state unknown.
+project.axf: Warning: L6437W: Relocation #REL:10 in main.o(.text) with respect to setup. Branch relocation to untyped symol in object setup.o, target state unknown.
+project.axf: Warning: L6318W: startup.o(RESET) contains branch to a non-code symbol IO_SR.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol push_working_reg.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol context_switch.
+project.axf: Warning: L6318W: main.o(.text) contains branch to a non-code symbol setup.
+project.sct(13): warning: L6314W: No section matches pattern main.o(ZI).
+project.sct(13): warning: L6329W: Pattern main.o(RW) only matches removed unused sections.
+Program Size: Code=9720 RO-data=4112 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 61 Warning(s).
